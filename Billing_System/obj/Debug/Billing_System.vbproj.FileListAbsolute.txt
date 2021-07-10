@@ -1,0 +1,12 @@
+D:\Project\Bill\Billing_System\Billing_System\bin\Debug\Billing_System.exe.config
+D:\Project\Bill\Billing_System\Billing_System\bin\Debug\Billing_System.exe
+D:\Project\Bill\Billing_System\Billing_System\bin\Debug\Billing_System.pdb
+D:\Project\Bill\Billing_System\Billing_System\bin\Debug\Billing_System.xml
+D:\Project\Bill\Billing_System\Billing_System\obj\Debug\Billing_System.vbprojAssemblyReference.cache
+D:\Project\Bill\Billing_System\Billing_System\obj\Debug\Billing_System.Form1.resources
+D:\Project\Bill\Billing_System\Billing_System\obj\Debug\Billing_System.Resources.resources
+D:\Project\Bill\Billing_System\Billing_System\obj\Debug\Billing_System.vbproj.GenerateResource.cache
+D:\Project\Bill\Billing_System\Billing_System\obj\Debug\Billing_System.vbproj.CoreCompileInputs.cache
+D:\Project\Bill\Billing_System\Billing_System\obj\Debug\Billing_System.exe
+D:\Project\Bill\Billing_System\Billing_System\obj\Debug\Billing_System.xml
+D:\Project\Bill\Billing_System\Billing_System\obj\Debug\Billing_System.pdb
